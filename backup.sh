@@ -10,4 +10,4 @@ echo "addig a few more changes"
 
 echo "adding more changes from dev1"
 
-echo "Updated the code for backup from dev2"
+echo "Updated the code for backup"
